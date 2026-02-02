@@ -4,4 +4,5 @@ numpy
 scikit-learn
 joblib
 openai
-python-doten
+python-dotenv
+
